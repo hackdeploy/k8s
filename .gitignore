@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/Docker/FlaskAPI/src/api/__pycache__
+/Docker/FlaskAPI/src/__pycache__
